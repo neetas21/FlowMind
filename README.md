@@ -91,7 +91,7 @@ Visit [console.groq.com](https://console.groq.com) → Create account → API Ke
 
 ### 4. Run the app
 ```bash
-streamlit run app.py
+https://flowmind-adhd-focus-intelligence-system.streamlit.app
 ```
 
 ### 5. Enter your Groq API key in the sidebar and start tracking!
