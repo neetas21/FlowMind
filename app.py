@@ -113,7 +113,6 @@ with st.sidebar:
     st.divider()
 
     import os
-
     groq_key = st.text_input(
         "🔑 Groq API Key (optional - pre-loaded for demo)",
         type="password",
